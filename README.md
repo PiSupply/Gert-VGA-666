@@ -11,7 +11,9 @@ sudo nano /boot/config.txt
 ```
 Add these lines at the bottom of the file
 ```
-dtoverlay=vga666 enable_dpi_lcd=1 display_default_lcd=1
+dtoverlay=vga666
+enable_dpi_lcd=1
+display_default_lcd=1
 ```
 You also need to specify your screen resolution. After the lines you added above you will also have to then add one of the following configurations:
 ```
