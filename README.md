@@ -1,4 +1,4 @@
-![Alt text](https://user-images.githubusercontent.com/16068311/30545226-eac87d6e-9c80-11e7-84fc-59aa8eae7669.png?raw=true "Gert VGA 666 Logo")
+![Alt text](https://user-images.githubusercontent.com/1878314/73882099-6448c000-4859-11ea-88d7-2363b44d9596.png)
 # Gert-VGA-666
 Resources for Gert VGA 666
 
